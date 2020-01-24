@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, I'm Zac. I like video games.
